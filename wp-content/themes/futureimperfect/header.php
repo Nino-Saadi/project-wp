@@ -6,7 +6,6 @@
 -->
 <html <?php language_attributes(); ?>>
 	<head>
-		<title></title>
 		<meta charset="<?php bloginfo( 'charset' ); ?>" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -23,11 +22,9 @@
 						<h1><a href="index.html">Future Imperfect</a></h1>
 						<nav class="links">
 							<ul>
-								<li><a href="#">Lorem</a></li>
-								<li><a href="#">Ipsum</a></li>
-								<li><a href="#">Feugiat</a></li>
-								<li><a href="#">Tempus</a></li>
-								<li><a href="#">Adipiscing</a></li>
+								<li><a href="#">Accueil</a></li>
+								<li><a href="#">Blog</a></li>
+								<li><a href="#">Contact</a></li>
 							</ul>
 						</nav>
 						<nav class="main">

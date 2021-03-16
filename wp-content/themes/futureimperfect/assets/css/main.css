@@ -3609,3 +3609,13 @@ input, select, textarea {
 			}
 
 		}
+
+/* CSS ajouté personnellement */
+		.admin-bar #header{
+			top: 32px;
+		}
+
+		img.attachment-post-thumbnail.size-post-thumbnail.wp-post-image{
+			max-width: 100%;
+			height: auto;
+		}
